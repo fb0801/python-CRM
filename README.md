@@ -4,7 +4,7 @@ CRM Django project
 ## Issues:
 
 ## Changes made:
-
+instead of MYSQL we are using Postgres
 
 
 ## Resources used:
